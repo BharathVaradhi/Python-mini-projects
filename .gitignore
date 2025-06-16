@@ -1,0 +1,17 @@
+# Ignore everything outside the project
+../../
+*.swp
+*.log
+*.tmp
+*.ini
+AppData/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Videos/
+*.DAT
+*.regtrans-ms
+*.vscode/
